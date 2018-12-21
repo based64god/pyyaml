@@ -1,2 +1,2 @@
-FROM python:slim
+FROM python:alpine
 RUN pip install pyyaml
